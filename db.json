@@ -1,0 +1,17 @@
+{
+    "iva": [
+            {
+                "id":   1,
+                "pais": "Chile",
+                "iva": "19%"
+            },
+            {
+                "id":   2,
+                "pais": "México",
+                "iva": "16%"
+            }
+    ],
+    "profile":{
+        "name": "Yisusle"
+    }
+}
